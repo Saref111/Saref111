@@ -1,12 +1,12 @@
-### Hi there, I'm Ivan - aka [Saref111][website] 👋
+### Hi there, I'm Ivan - aka [Saref111](https://Saref111.github.io) 👋
 
 [![Website](https://img.shields.io/website?label=Saref111.github.io&style=for-the-badge&url=https%3A%2F%2FSaref111.github.io)](https://Saref111.github.io)
 
-## I'm a Husband, Father, Developer, and Teacher!
+## I'm a  Developer, Teacher, Musician!
 
-- 🔭 I’m currently working on a [My Portfolio][website]!
+- 🔭 I’m currently working on a [My Portfolio](https://Saref111.github.io)!
 - 🌱 I’m currently learning Node.js
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other content creators. Feel free to text me
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to eat spicy food 🤣
 
