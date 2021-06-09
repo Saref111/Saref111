@@ -8,7 +8,7 @@
 - 👯 I’m looking to collaborate with other content creators. Feel free to text me
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-# My achivements
+### My achivements
 <!-- ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
