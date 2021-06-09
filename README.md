@@ -4,7 +4,7 @@
 
 ## I'm a  Developer, Teacher, Musician!
 
-- 🌱 I’m currently learning web animations 
+- 🌱 I’m currently learning web animations, WebRTC and advanced Node.js 
 - 👯 I’m looking to collaborate with other content creators. Feel free to text me
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
