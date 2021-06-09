@@ -4,11 +4,10 @@
 
 ## I'm a  Developer, Teacher, Musician!
 
-- 🔭 I’m currently working on [My Portfolio](https://Saref111.github.io)!
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning web animations 
 - 👯 I’m looking to collaborate with other content creators. Feel free to text me
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to eat spicy food 🤣
+- 🥅 2021 Goals: Contribute more to Open Source projects
+
 
 <!-- ### Connect with me:
 
