@@ -8,7 +8,15 @@
 - 👯 I’m looking to collaborate with other content creators. Feel free to text me
 - 🥅 2021 Goals: Contribute more to Open Source projects
 
-### My achivements
+---
+
+### My achivements 2020-2021:
+
+- Took part in developing of social network for musicians, promoters and venues
+- Created app for selling airplane tickets
+- Contributed code to 2 repositories in the 2020 GitHub Archive Program
+- Created a new interface for stickers online shop
+- Improved interface and created mobile versions for several old websites
 <!-- ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
