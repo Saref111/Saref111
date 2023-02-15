@@ -1,14 +1,19 @@
-### Hi there, I'm Ivan - aka [Saref111](https://Saref111.github.io) 👋
-
-[![Website](https://img.shields.io/website?label=Saref111.github.io&style=for-the-badge&url=https%3A%2F%2FSaref111.github.io)](https://Saref111.github.io)
+### Hi there, I'm Ivan Borovyk 👋
 
 ## I'm a  Developer, Teacher, Musician!
 
-- 🌱 I’m currently learning web animations, WebRTC and advanced Node.js 
-- 👯 I’m looking to collaborate with other content creators. Feel free to text me
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🌱 I’m currently learning design patterns.
+- 👯 I’m looking to collaborate with other content creators. Feel free to text me.
+- 🥅 2023 Goals: write more in Rust and improve my current programming level.
 
 ---
+
+### My achivements 2022:
+
+- Started working with great team in EPAM
+- Improved my programming skills by permanent learning
+- Started to implement totally new features and unit tests on the current ptoject
+- Learned and fall in love with Rust
 
 ### My achivements 2020-2021:
 
