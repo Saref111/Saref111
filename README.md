@@ -1,12 +1,23 @@
 ### Hi there, I'm Ivan Borovyk 👋
 
-## I'm a  Developer, Teacher, Musician!
+## I'm a  Developer, Mentor, Musician!
 
-- 🌱 I’m currently learning design patterns.
-- 👯 I’m looking to collaborate with other content creators. Feel free to text me.
-- 🥅 2023 Goals: write more in Rust and improve my current programming level.
+- 🌱 I’m currently getting master degree in computer science.
+- 👯 I’m looking for collaboration with other programers. Feel free to text me.
+- 🥅 2024 Goals: Work more with Rust and AI. Build an app with some AI functionality.
 
 ---
+
+### My achivements 2023:
+
+- Enroled into CS Master degree course.
+- Continue learning Rust. Built several CLI apps and several server apps (including naive microservice app) for learning purpose. Finished Rust Programming Bootcamp.
+- Started new fintech project with React. Provided FSD architecture and CI practices.
+- Built a new design system based interface for project knowledge base. The components editor/builder will be written for these interface.
+- Read a lection about AJAX and web protocalls in Kyiv Polytechnic Institrute.
+- Finsihed two courses about algorithms, design patterns and programming paradigms.
+- Discovered eficiency of AI usage in proigramming and improve my AI skills and understanding of it.
+- Continued private mentoring practice in frontend field.
 
 ### My achivements 2022:
 
