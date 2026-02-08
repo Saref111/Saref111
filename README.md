@@ -2,9 +2,9 @@
 
 ## I'm a  Developer, Mentor, Musician!
 
-- 🌱 I’m currently getting master degree in computer science.
+- 🌱 I’m currently sevring in Ukraine Army.
 - 👯 I’m looking for collaboration with other programers. Feel free to text me.
-- 🥅 2024 Goals: Work more with Rust and AI. Build an app with some AI functionality.
+- 🥅 2026 Goals: Work more with Rust and AI. Also I'd love to put my hands on some embedded projects.
 
 ---
 ## My achivements
