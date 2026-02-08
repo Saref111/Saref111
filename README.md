@@ -7,8 +7,21 @@
 - 🥅 2024 Goals: Work more with Rust and AI. Build an app with some AI functionality.
 
 ---
+## My achivements
 
-### My achivements 2023:
+### 2025:
+- Finished the course about Computer Vision and Neural Networks
+- Continued improving Rust skills and knowlege. Created some CLI apps, read and practiced Zero to Production book.
+- Started to learn embedded programming. Used Arduino and Rust.
+- Developed to production a simple web-app for our army division.   
+
+### 2024:
+- Helped debugging a big fintech project
+- Joined the team of big ecommerce project
+- Improved my skills in functional programming
+- Joined the Ukraine Army
+
+### 2023:
 
 - Enroled into CS Master degree course.
 - Continue learning Rust. Built several CLI apps and several server apps (including naive microservice app) for learning purpose. Finished Rust Programming Bootcamp.
@@ -19,14 +32,14 @@
 - Discovered eficiency of AI usage in proigramming and improve my AI skills and understanding of it.
 - Continued private mentoring practice in frontend field.
 
-### My achivements 2022:
+### 2022:
 
 - Started working with great team in EPAM
 - Improved my programming skills by permanent learning
 - Started to implement totally new features and unit tests on the current ptoject
 - Learned and fall in love with Rust
 
-### My achivements 2020-2021:
+### 2020-2021:
 
 - Took part in developing of social network for musicians, promoters and venues
 - Created app for selling airplane tickets
